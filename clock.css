@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.give_time {
+    text-align: center;
+    height:55vh;
+    /* background-image: url('clock.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; */
+    font-size: 300%;
+    color:olivedrab;
+    background-color: black;
+    padding:15%;
+}
+#last {
+    text-align: left;
+    font-size: 70%;
+    display: inline-block;
+    position: relative;
+    margin:20%;
+}
